@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L10_PS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_blank">Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

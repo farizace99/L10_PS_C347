@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In medieval games of chess, pawns that had been promoted to a queen would be given the title of “advisor,” so as to not imply that the king had more than one queen or was unfaithful." />
+
+        <Button
+            android:id="@+id/btnChangeColor2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change Colour" />
+    </LinearLayout>
+
+</FrameLayout>
